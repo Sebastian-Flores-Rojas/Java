@@ -1,5 +1,5 @@
 package Herencia;
-
+// El extends Persona hace referencia a la herencia de la clase Persona con atributos
 public class Empleado extends Persona{
     private int idEmpleado;
     private double sueldo;
